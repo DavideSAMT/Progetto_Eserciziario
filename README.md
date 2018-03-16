@@ -22,8 +22,8 @@ I files pdf dovranno venir salvati e potranno essere ripresi in un secondo momen
 ## Info
 **Inizio:** 16.03.2018  
 **Consegna:** 18.05.2018
-* [Documentazione]( https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Documentazione"Cartella documentazione")
-  + [Quaderno dei compiti]( https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Documentazione/QuadernoDeiCompiti.pdf"Quaderno dei compiti")
+* [Documentazione](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Documentazione "Cartella documentazione")
+  + [Quaderno dei compiti](https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Documentazione/QuadernoDeiCompiti.pdf "Quaderno dei compiti")
 * [Trello Project Management](https://trello.com/b/GLDHOJyj/progettoeserciziario "Trello")
 * [GitHub Repository](https://github.com/DavideSAMT/Progetto_Eserciziario "GitHub Progetto")
 ## Diari
