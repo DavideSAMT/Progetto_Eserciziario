@@ -14,7 +14,7 @@ Come seconda operazione il docente potrà crearsi gli esercizi. Per far questo d
 Una volta selezionate queste opzioni dovrà venir automaticamente creato un file .pdf contenente l’esercizio completo di tutte le domande scelte casualmente all’interno del database. Naturalmente il docente avrà accesso solo alle proprie domande e a quelle pubbliche dei colleghi.
 Il file .pdf dovrà contenere un’intestazione con un titolo e lo spazio per far scrivere il nome e il cognome dell’allievo che lo svolgerà.
 I files pdf dovranno venir salvati e potranno essere ripresi in un secondo momento dal docente.
-### Docente Responsabili
+### Docente Responsabile
 * Massimo Sartori
 ### Lavoratori
 * Davide Paradiso
