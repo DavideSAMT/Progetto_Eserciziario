@@ -27,4 +27,4 @@ I files pdf dovranno venir salvati e potranno essere ripresi in un secondo momen
 * [Trello Project Management](https://trello.com/b/GLDHOJyj/progettoeserciziario "Trello")
 * [GitHub Repository](https://github.com/DavideSAMT/Progetto_Eserciziario "GitHub Progetto")
 ## Diari
-* [Diari]( "Diari")
+* [Diari](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Diari "Diari")
