@@ -6,7 +6,7 @@ Il docente potrà creare delle domande. Queste potranno essere delle foto (per e
 Come seconda operazione il docente potrà crearsi gli esercizi. Per far questo dovrà scegliere:
 -	Numero di domande nell’esercizio
 -	Grado o gradi di difficoltà (per esempio da difficoltà 1 a 4)
--	-Materia (per esempio matematica)
+-	Materia (per esempio matematica)
 -	Categoria o categorie (per esempio trigonometria e algebra)
 -	Solo domande private, solo domande inserite dal docente stesso o tutte
 -	Scelta solo di domande che non sono mai state utilizzate in altri esercizi oppure scelta completa.
@@ -17,12 +17,13 @@ I files pdf dovranno venir salvati e potranno essere ripresi in un secondo momen
 ### Docente Responsabili
 * Massimo Sartori
 ### Lavoratori
-* Davide paradiso
+* Davide Paradiso
+* Giairo Mauro
 ## Info
 **Inizio:** 16.03.2018  
-**Consegna:** 18.04.2018
-* [Documentazione]( "Cartella documentazione")
-  + [Quaderno dei compiti]( "Quaderno dei compiti")
+**Consegna:** 18.05.2018
+* [Documentazione]( https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Documentazione"Cartella documentazione")
+  + [Quaderno dei compiti]( https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Documentazione/QuadernoDeiCompiti.pdf"Quaderno dei compiti")
 * [Trello Project Management](https://trello.com/b/GLDHOJyj/progettoeserciziario "Trello")
 * [GitHub Repository](https://github.com/DavideSAMT/Progetto_Eserciziario "GitHub Progetto")
 ## Diari
