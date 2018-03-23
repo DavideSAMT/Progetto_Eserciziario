@@ -25,8 +25,12 @@ I files pdf dovranno venir salvati e potranno essere ripresi in un secondo momen
 * [Documentazione](https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Documentazione/Documentazione.pdf "Cartella documentazione")
   + [Quaderno dei compiti](https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Documentazione/QuadernoDeiCompiti.pdf "Quaderno dei compiti")
 * [Analisi](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Analisi "Cartella analisi")
+  + [Gantt](https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Analisi/Gantt_Preventivo.png "Gantt")
   + [Requisiti](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Analisi/Requisiti "Cartella requisiti")
-    - [Analisi dei requisiti](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Analisi/Requisiti "Cartella requisiti")
+    - [Analisi dei requisiti](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Analisi/Requisiti "Analisi dei requisiti")
+* [Progettazione](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Progettazione "Progettazione")
+  + [Schema ER](https://github.com/DavideSAMT/Progetto_Eserciziario/blob/master/Progettazione/SchemaER.PNG "Schema ER")
+  + [Moqup](https://github.com/DavideSAMT/Progetto_Eserciziario/tree/master/Progettazione/Moqup "Moqup")
 * [Trello Project Management](https://trello.com/b/GLDHOJyj/progettoeserciziario "Trello")
 * [GitHub Repository](https://github.com/DavideSAMT/Progetto_Eserciziario "GitHub Progetto")
 ## Diari
