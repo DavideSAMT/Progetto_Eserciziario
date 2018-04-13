@@ -48,6 +48,13 @@ create table if not exists Categoria(
 alter table Categoria add foreign key (ID_Materia) references Materia(ID_Materia);
 
 /*
+* TABELLA DIFFICOLTÀ
+*/
+create table if not exists Difficolta(
+	valore varchar(15) primary key
+) engine = innodb;
+
+/*
 * TABELLA DOMANDA
 */
 create table if not exists Domanda(
@@ -56,7 +63,21 @@ create table if not exists Domanda(
 	pubblica boolean,
     usata boolean,
 	ID_Docente int,
-	ID_Categoria int
+	ID_Categoria int,
+    difficolta varchar(15)
 ) engine = innodb;
 alter table Domanda add foreign key (ID_Docente) references Docente(ID_Docente);
 alter table Domanda add foreign key (ID_Categoria) references Categoria(ID_Categoria);
+alter table Domanda add foreign key (difficolta) references Difficolta(valore);
+
+/*
+* TABELLA SERIE
+*/
+create table if not exists Serie(
+	ID_Serie int auto_increment primary key,
+    pdf blob,
+    ID_Docente int,
+    difficolta varchar(15)
+) engine = innodb;
+alter table Serie add foreign key (ID_Docente) references Docente(ID_Docente);
+alter table Serie add foreign key (difficolta) references Difficolta(valore);
