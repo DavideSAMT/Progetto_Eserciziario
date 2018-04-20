@@ -15,7 +15,7 @@ create table if not exists Docente(
 	ID_Docente int auto_increment primary key,
     Nome varchar(25),
     Cognome varchar(25),
-    Mail varchar(25) unique,
+    Mail varchar(45) unique,
     Password varchar(25)
 ) engine = innodb;
 
