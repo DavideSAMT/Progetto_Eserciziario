@@ -24,15 +24,16 @@ create table if not exists Docente(
 */
 create table if not exists Materia(
 	ID_Materia int auto_increment primary key,
-    Nome_Materia varchar(25)
+    Nome_Materia varchar(45)
 ) engine = innodb;
 
 /*
 * TABELLA DOCENTE-MATERIA
 */
 create table if not exists Doc_Mat(
-	ID_Docente int primary key,
-    ID_Materia int unique
+	ID_Docente int,
+    ID_Materia int,
+    primary key (ID_Docente, ID_Materia)
 ) engine = innodb;
 alter table Doc_Mat add foreign key (ID_Docente) references Docente(ID_Docente);
 alter table Doc_Mat add foreign key (ID_Materia) references Materia(ID_Materia);
