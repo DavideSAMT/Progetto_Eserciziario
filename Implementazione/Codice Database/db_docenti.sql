@@ -63,6 +63,7 @@ create table if not exists Domanda(
 	testoDomanda text,
 	pubblica boolean,
     usata boolean,
+    immagine blob,
 	ID_Docente int,
 	ID_Categoria int,
     difficolta varchar(15)
